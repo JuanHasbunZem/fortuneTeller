@@ -1,3 +1,25 @@
+h1 {
+  font-family: 'Potta One', cursive;
+}
+
+h3 {
+  font-family: fantasy
+}
+
+#fortune p {
+  font-size: 30px;
+}
+
+#fortune input {
+  margin-left: 30px;
+}
+
+body {
+  font-family:'Times New Roman', Times, serif;
+  background-color: black;
+  color: white;
+}
+
 #result1 {
   display: none;
 }
